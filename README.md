@@ -2,6 +2,7 @@
 
 ---
 [Watch video](https://youtu.be/JyQpDYhpi80)
+---
 In this assignment, you will implement and analyze a simple neural network by visualizing its learned features, decision boundary, and gradients. The goal is to develop a deeper understanding of how a Feedforward Neural Network with one hidden layer operates and represents the input space during learning.
 
 ## Task Overview
